@@ -1,7 +1,7 @@
-D:\Codes\rus7udy\guessing_game\target\debug\deps\rand-363a491e52ab1033.rmeta: D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\lib.rs D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\distributions\mod.rs D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\rand_impls.rs
+D:\Work\rus7udy\guessing_game\target\debug\deps\rand-363a491e52ab1033.rmeta: C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\lib.rs C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\distributions\mod.rs C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\rand_impls.rs
 
-D:\Codes\rus7udy\guessing_game\target\debug\deps\rand-363a491e52ab1033.d: D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\lib.rs D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\distributions\mod.rs D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\rand_impls.rs
+D:\Work\rus7udy\guessing_game\target\debug\deps\rand-363a491e52ab1033.d: C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\lib.rs C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\distributions\mod.rs C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\rand_impls.rs
 
-D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\lib.rs:
-D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\distributions\mod.rs:
-D:\Caches\Cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand-0.3.23\src\rand_impls.rs:
+C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\lib.rs:
+C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\distributions\mod.rs:
+C:\Users\zorro\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.3.23\src\rand_impls.rs:
