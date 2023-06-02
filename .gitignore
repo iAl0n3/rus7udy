@@ -2,3 +2,5 @@
 /.vscode
 /minigrep/target
 /minigrep/.idea
+*/*/target
+*/target
