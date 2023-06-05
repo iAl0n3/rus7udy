@@ -42,7 +42,6 @@ fn main() {
  */
     let guess: u32 = "42".parse().expect("Not a number!");
     println!("{}", guess);
-}
 
 /* 标量类型：
     一个标量类型代表一个单一的值
@@ -72,3 +71,28 @@ fn main() {
     4. 布尔类型：true 和 false，一个字节大小
     5. 字符类型：char 类型被用来描述语言中最基础的单个字符，字符类型的字面值使用用单引号，占用4字节大小，是 Unicode
 */
+
+/* 复合类型：
+    复合类型可以将多个值放在一个类型里
+    Rust 提供了两种基础的复合类型，一种是 元组（Tuple） 数组
+
+    Tuple:
+        - Tuple 可以将多个类型的多个值放在一个类型里
+        - Tuple 的长度是固定的，一旦声明就无法改变
+
+    创建一个 Tuple：
+        - 在小括号内，将值用逗号隔开
+        - Tuple 中每个位置对应一个类型，Tuple中各元素的类型不必相同
+    
+    获取 Tuple 的元素值：
+        - 可以使用模式匹配来解构（destructure）一个 Tuple 来获取元素值
+ */
+    let tup: (i32, f64, u8) = (500, 6.4, 1);
+    // println!("{} {} {}", tup.0, tup.1, tup.2);
+
+    // 解构一个 Tuple
+    let (x, y, z) = tup;
+    println!("{} {} {}", x, y, z);
+    
+
+}
