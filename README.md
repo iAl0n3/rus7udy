@@ -1,6 +1,6 @@
 # ==== 颜文字 - 常用 ====
 #      :tada:  初始化/重大功能
-#   ✨   :sparkles:  新功能追加
+#      :sparkles:  新功能追加
 #      :construction:  工作进行中
 #      :bento: 添加/更新asset
 #      :ribbon:  UI/样式调整
@@ -10,27 +10,27 @@
 #      :art:   改进代码结构/格式
 #      :bug:   修复bug
 #      :ambulance: 紧急修复
-#   ⚡️  :zap:   性能优化
+#      :zap:   性能优化
 #      :hammer:    重构
 #      :chart_with_upwards_trend:  添加分析或跟踪代码
-#   ⏪   :rewind:    回退
+#      :rewind:    回退
 #      :twisted_rightwards_arrows: 合并分支
 
 
 # ==== 颜文字 - 附加 ====
 #      :wrench:    修改配置文件
-#   ➕   :heavy_plus_sign:   增加一个依赖
-#   ➖   :heavy_minus_sign:  减少一个依赖
-#   ⬇️  :arrow_down:    降级依赖
-#   ⬆   :arrow_up:  升级依赖
+#      :heavy_plus_sign:   增加一个依赖
+#      :heavy_minus_sign:  减少一个依赖
+#      :arrow_down:    降级依赖
+#      :arrow_up:  升级依赖
 #      :lock:  修复安全问题
 #      :apple: 修复macOS下漏洞
 #      :penguin:   修复linux下漏洞
 #      :checkered_flag:    修复windows下漏洞
-#   ✏️  :pencil2:   修复错别字
+#      :pencil2:   修复错别字
 #      :truck: 移动/重命名文件
 #      :fire:  移除代码/文件
-#   ✅   :white_check_mark:  添加测试用例
+#      :white_check_mark:  添加测试用例
 #      :poop:    代码很烂需要改进
 #      :globe_with_meridians:  国际化与本地化
 #      :bookmark:  发布/版本标签
@@ -43,7 +43,7 @@
 #      :pencil:  撰写文档
 #      :rotating_light:   移除 linter 警告
 #      :boom:  介绍破坏性变化
-#   ♿   :wheelchair:    改善可访问性
+#      :wheelchair:    改善可访问性
 #      :bulb: 源码归档
 #      :beers: 醉酒写代码
 
