@@ -3,6 +3,9 @@ fn main() {
     first_function();
     second_function(5); // argument
     third_function(5, 5);
+
+    let z = fifth_function(6);
+    println!("The value of x is: {}", z);
 }
 /* 函数：
     - 声明函数使用 fn 关键字
@@ -34,4 +37,15 @@ fn third_function(x: i32, y: i32) {
  */
 fn forth_function() {
     let x = 5;
+}
+
+/* 函数的返回值：
+    - 在 -> 符号后边声明函数返回值的类型，但是不可以为返回值命名
+    - 在 Rust 里面，返回值就是函数体里面最后一个表达式的值
+
+    若想提前返回，需使用 return 关键字，并指定一个值
+        - 大多数函数都是默认使用最后一个表达式为返回值
+ */
+fn fifth_function(z : i32) -> i32 {
+    z + 5
 }
