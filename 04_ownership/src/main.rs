@@ -123,4 +123,29 @@ fn main() {
         - 深拷贝（deep copy）
         你也许会将复制指针，长度，容量视为浅拷贝，但由于 Rust 让 S2 失效了，所以我们用一个新的术语：移动（Move）
      */
+
+    /*
+        如果真想对 Heap 上面的 String 数据进行深度拷贝，而不仅仅时 Stack 上的数据，可以使用 Clone 方法
+     */
+    let s4 = s1.clone();
+    println!("{}, {}", s1, s4);
+
+    // Stack 上的数据：复制
+    println!("{}, {}", x, y);
+    /*
+        Copy trait：可以用于像整数这样的完全存放在 Stack 上面的类型
+        - 如果一个类型实现了 Copy 这个 trait，那么旧的变量在赋值后仍然可用
+        - 如果一个类型或该类型的一部分实现了 Drop trait，那么 Rust 不允许让它再去实现 Copy trait 了
+
+        一些拥有 Copy trait 的类型：
+            + 任何简单标量的组合类型都可以是 Copy 的
+            + 任何需要分配内存或某种资源的都不是 Copy 的
+            + 一些拥有 Copy trait 的类型：
+                - 所有的整数类型，例如 u32
+                - bool
+                - 所有的浮点类型，例如 f64
+                - Tuple (元组)，如果其所有的字段都是 Copy 的
+                    + (i32, i32) 是
+                    + (i32, String) 不是
+     */
 }   // S1 作用域到此结束，S1 不在可用
