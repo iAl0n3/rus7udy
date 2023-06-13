@@ -1,3 +1,4 @@
+```bash
 # ==== 颜文字 - 常用 ====
 #      :tada:  初始化/重大功能
 #      :sparkles:  新功能追加
@@ -61,3 +62,4 @@
 # 5. Use the imperative mood in the subject line
 # 6. Wrap the body at 72 characters
 # 7. Use the body to explain what and why vs. how
+```
