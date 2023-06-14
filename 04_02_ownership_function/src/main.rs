@@ -48,7 +48,7 @@ fn takes_and_gives_back(a_string: String) -> String {
 }
 
 /*  如何让函数使用某个值，但不获得其所有权
-    Rust 有一个特性叫做 “引用”
+    Rust 有一个特性叫做 “引用(Reference)”
  */
 fn calculate_length(s: String) -> (String, usize) {
     let length = s.len();
