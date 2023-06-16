@@ -1,3 +1,9 @@
+## 代码仓库
+
+![Alt](https://repobeats.axiom.co/api/embed/309233c5af26b4fad51da0cb9114f280d79f3e86.svg "Repobeats analytics image")
+
+## 好玩的提交
+
 ```bash
 # ==== 颜文字 - 常用 ====
 #      :tada:  初始化/重大功能
